@@ -1,0 +1,24 @@
+{
+  "name": "Mycelium light",
+  "mode": "light",
+  "colors": {
+    "bg": "#ffffff",
+    "surface": "#f2f4f6",
+    "paper": "#ffffff",
+    "elevated": "#ffffff",
+    "muted-bg": "#eceef1",
+    "hairline": "#11141809",
+    "text": "#14171b",
+    "prose": "#2a3037",
+    "muted-foreground": "#464d55",
+    "faint": "#656c74",
+    "border": "#1114181a",
+    "border2": "#1114182b",
+    "accent": "#096a7b",
+    "accent-fg": "#ffffff",
+    "accent-soft": "#096a7b1a",
+    "green": "#0b7a56",
+    "yellow": "#8a6410",
+    "red": "#bd3f3a"
+  }
+}

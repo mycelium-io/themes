@@ -1,0 +1,24 @@
+{
+  "name": "High contrast light",
+  "mode": "light",
+  "colors": {
+    "bg": "#ffffff",
+    "surface": "#f2f2f2",
+    "paper": "#ffffff",
+    "elevated": "#ffffff",
+    "muted-bg": "#e6e6e6",
+    "hairline": "#00000014",
+    "text": "#000000",
+    "prose": "#000000",
+    "muted-foreground": "#1a1a1a",
+    "faint": "#333333",
+    "border": "#00000066",
+    "border2": "#000000a6",
+    "accent": "#0040c1",
+    "accent-fg": "#ffffff",
+    "accent-soft": "#0040c11f",
+    "green": "#006b1b",
+    "yellow": "#6b4c00",
+    "red": "#b0000f"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bioluminescence",
+  "mode": "dark",
+  "colors": {
+    "bg": "#060a0f",
+    "surface": "#0b1219",
+    "paper": "#0f1821",
+    "elevated": "#14202b",
+    "muted-bg": "#14202b",
+    "text": "#e2f3ef",
+    "prose": "#cfe6e1",
+    "muted-foreground": "#9cb9b4",
+    "faint": "#82a19c",
+    "accent": "#5ef2c4",
+    "accent-fg": "#02140d",
+    "accent-soft": "#5ef2c426",
+    "border": "#5ef2c41f",
+    "border2": "#5ef2c433",
+    "hairline": "#5ef2c414",
+    "green": "#86e89a",
+    "yellow": "#f3cf6a",
+    "red": "#ff7d92"
+  }
+}

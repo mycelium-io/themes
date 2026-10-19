@@ -1,0 +1,24 @@
+{
+  "name": "Mycelium dark",
+  "mode": "dark",
+  "colors": {
+    "bg": "#0c0e11",
+    "surface": "#14171c",
+    "paper": "#191d22",
+    "elevated": "#21262d",
+    "muted-bg": "#21262d",
+    "hairline": "#ffffff09",
+    "text": "#e8ebee",
+    "prose": "#c4cad1",
+    "muted-foreground": "#a7adb5",
+    "faint": "#888f97",
+    "border": "#ffffff14",
+    "border2": "#ffffff29",
+    "accent": "#5cc7d2",
+    "accent-fg": "#06181b",
+    "accent-soft": "#5cc7d221",
+    "green": "#4fc296",
+    "yellow": "#d9a94e",
+    "red": "#e6746f"
+  }
+}

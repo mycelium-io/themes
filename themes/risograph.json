@@ -1,0 +1,24 @@
+{
+  "name": "Risograph",
+  "mode": "light",
+  "colors": {
+    "bg": "#f6f1e7",
+    "surface": "#efe8da",
+    "paper": "#fbf8f1",
+    "elevated": "#fffdf8",
+    "muted-bg": "#e8dfcd",
+    "text": "#1f1a2e",
+    "prose": "#2a2440",
+    "muted-foreground": "#4d4561",
+    "faint": "#5c556f",
+    "accent": "#c4166f",
+    "accent-fg": "#fff6fa",
+    "accent-soft": "#ff48a526",
+    "border": "#1f1a2e1f",
+    "border2": "#1f1a2e33",
+    "hairline": "#1f1a2e12",
+    "green": "#1d6f4a",
+    "yellow": "#7f5300",
+    "red": "#b3261e"
+  }
+}

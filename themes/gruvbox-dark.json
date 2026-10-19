@@ -1,0 +1,24 @@
+{
+  "name": "Gruvbox dark",
+  "mode": "dark",
+  "colors": {
+    "bg": "#282828",
+    "surface": "#1d2021",
+    "paper": "#32302f",
+    "elevated": "#3c3836",
+    "muted-bg": "#3c3836",
+    "hairline": "#ebdbb20a",
+    "text": "#ebdbb2",
+    "prose": "#d5c4a1",
+    "muted-foreground": "#bdae93",
+    "faint": "#afa28e",
+    "border": "#ebdbb21a",
+    "border2": "#ebdbb22e",
+    "accent": "#fe8019",
+    "accent-fg": "#282828",
+    "accent-soft": "#fe801924",
+    "green": "#b8bb26",
+    "yellow": "#fabd2f",
+    "red": "#fc7f70"
+  }
+}

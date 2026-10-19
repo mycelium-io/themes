@@ -1,0 +1,24 @@
+{
+  "name": "GitHub light",
+  "mode": "light",
+  "colors": {
+    "bg": "#ffffff",
+    "surface": "#f6f8fa",
+    "paper": "#ffffff",
+    "elevated": "#ffffff",
+    "muted-bg": "#eff2f5",
+    "hairline": "#1f23280a",
+    "text": "#1f2328",
+    "prose": "#1f2328",
+    "muted-foreground": "#59636e",
+    "faint": "#666e77",
+    "border": "#1f23281f",
+    "border2": "#1f232833",
+    "accent": "#0969da",
+    "accent-fg": "#ffffff",
+    "accent-soft": "#0969da1a",
+    "green": "#1a7f37",
+    "yellow": "#9a6700",
+    "red": "#d1242f"
+  }
+}

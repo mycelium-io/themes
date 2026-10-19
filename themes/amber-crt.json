@@ -1,0 +1,24 @@
+{
+  "name": "Amber CRT",
+  "mode": "dark",
+  "colors": {
+    "bg": "#0d0904",
+    "surface": "#140e06",
+    "paper": "#191108",
+    "elevated": "#20160b",
+    "muted-bg": "#20160b",
+    "text": "#ffcf7a",
+    "prose": "#f4c06a",
+    "muted-foreground": "#cc9a52",
+    "faint": "#ad8045",
+    "accent": "#ffb000",
+    "accent-fg": "#1a0f00",
+    "accent-soft": "#ffb00024",
+    "border": "#ffb0001c",
+    "border2": "#ffb0002e",
+    "hairline": "#ffb00012",
+    "green": "#c8d86a",
+    "yellow": "#ffd75e",
+    "red": "#ff7a5a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Moss",
+  "mode": "dark",
+  "colors": {
+    "bg": "#11140f",
+    "surface": "#161a13",
+    "paper": "#1b2017",
+    "elevated": "#21281c",
+    "muted-bg": "#21281c",
+    "text": "#e7ecdc",
+    "prose": "#d6dcc8",
+    "muted-foreground": "#aab397",
+    "faint": "#919b7d",
+    "accent": "#b5d66b",
+    "accent-fg": "#151c06",
+    "accent-soft": "#b5d66b24",
+    "border": "#e7ecdc17",
+    "border2": "#e7ecdc29",
+    "hairline": "#e7ecdc0f",
+    "green": "#8fd18a",
+    "yellow": "#e6c066",
+    "red": "#eb8a6e"
+  }
+}

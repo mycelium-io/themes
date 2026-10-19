@@ -1,0 +1,24 @@
+{
+  "name": "High contrast dark",
+  "mode": "dark",
+  "colors": {
+    "bg": "#000000",
+    "surface": "#0a0a0a",
+    "paper": "#000000",
+    "elevated": "#121212",
+    "muted-bg": "#1f1f1f",
+    "hairline": "#ffffff14",
+    "text": "#ffffff",
+    "prose": "#ffffff",
+    "muted-foreground": "#e6e6e6",
+    "faint": "#cccccc",
+    "border": "#ffffff73",
+    "border2": "#ffffffb2",
+    "accent": "#6cb6ff",
+    "accent-fg": "#000000",
+    "accent-soft": "#6cb6ff2e",
+    "green": "#4ade80",
+    "yellow": "#facc15",
+    "red": "#ff6b6b"
+  }
+}

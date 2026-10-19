@@ -1,0 +1,24 @@
+{
+  "name": "Solarized dark",
+  "mode": "dark",
+  "colors": {
+    "bg": "#002b36",
+    "surface": "#00252f",
+    "paper": "#073642",
+    "elevated": "#073642",
+    "muted-bg": "#0a3e4b",
+    "hairline": "#eee8d50a",
+    "text": "#eee8d5",
+    "prose": "#a5b0b0",
+    "muted-foreground": "#a5b0b0",
+    "faint": "#98a6a8",
+    "border": "#eee8d517",
+    "border2": "#eee8d52b",
+    "accent": "#4aa1de",
+    "accent-fg": "#002b36",
+    "accent-soft": "#4aa1de29",
+    "green": "#90a600",
+    "yellow": "#c29300",
+    "red": "#e87977"
+  }
+}

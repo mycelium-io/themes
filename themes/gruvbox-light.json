@@ -1,0 +1,25 @@
+{
+  "name": "Gruvbox light",
+  "mode": "light",
+  "colors": {
+    "bg": "#fbf1c7",
+    "surface": "#f2e5bc",
+    "paper": "#fbf1c7",
+    "elevated": "#f9f5d7",
+    "muted-bg": "#ebdbb2",
+    "hairline": "#3c38360a",
+    "text": "#3c3836",
+    "prose": "#3c3836",
+    "muted-foreground": "#504945",
+    "faint": "#665c54",
+    "border": "#3c383624",
+    "border2": "#3c38363d",
+    "accent": "#af3a03",
+    "accent-fg": "#fbf1c7",
+    "accent-soft": "#af3a031a",
+    "green": "#6b670c",
+    "yellow": "#8c5b0f",
+    "red": "#9d0006",
+    "avatar-ink": "#282828"
+  }
+}

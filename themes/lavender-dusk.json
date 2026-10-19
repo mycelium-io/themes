@@ -1,0 +1,24 @@
+{
+  "name": "Lavender Dusk",
+  "mode": "dark",
+  "colors": {
+    "bg": "#14111f",
+    "surface": "#1a1628",
+    "paper": "#1f1a30",
+    "elevated": "#262038",
+    "muted-bg": "#262038",
+    "text": "#ece6fb",
+    "prose": "#ddd5f2",
+    "muted-foreground": "#b1a7cf",
+    "faint": "#978db6",
+    "accent": "#c3a6ff",
+    "accent-fg": "#1a0f33",
+    "accent-soft": "#c3a6ff26",
+    "border": "#ece6fb17",
+    "border2": "#ece6fb29",
+    "hairline": "#ece6fb0f",
+    "green": "#8ee3b5",
+    "yellow": "#f5d37e",
+    "red": "#ff8fb1"
+  }
+}
